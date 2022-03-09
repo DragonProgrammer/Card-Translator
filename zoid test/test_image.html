@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+<?php
+
+$backgroung_image = imagecreatefromjpeg(file_get_contents('https://media.discordapp.net/attachments/848289789584211992/873041300151238666/P-001.jpg'));   // creates image object
+/*
+$text_color = imagecolorallocate($background_image, 0,0,0); //set text color to black
+
+$font_file = 'font.TTF'; // link in a font file
+
+$text = "sample Text";
+
+$text_size = 10; //in points
+
+$X_position = 20; // top left of text
+$Y_position = 20; 
+
+imagettftext($background_image, $text_size, 0, $X_position, $Y_position, $font_file, $text); //create image object with text
+*/
+imagejpeg($background_image) // post image to browser
+
+
+/*
+imagedestroy($translated_image);
+imagedestroy($background_image);
+*/
+?>
+
+</body>
+</html>
+ 

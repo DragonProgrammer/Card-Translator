@@ -7,12 +7,22 @@ Due to Japanese text being data dense (2 characters or less can be a whole word)
 Although the text is hard coded into the tests the project was planed to have it read from the database of text and match them with the names from scanned cards.
 
 Version control of this project was done by incrementing the file numbers.
-
+________________________________________________________________________________
 The final working versions for each type of card are:
 
 Zoid - test_overlay_zoid_database_test_6 - this show the program placing text for a long list of zoids onto the card for Gilvader.
+
 Mobile Base - test_overlay_mobile_base_phase_6 - this show the mask on the card for Pingitrain, as well as the measurement and text readouts and the resizing needed from the scan.
+
 Pilot - pilot_overlay_test_phase_three - this show the overaly for Moonbay, aptitude was not transfered as that was still being discussed on how to display.
+
+Event - event_overlay_test - this does the event Dream Crush, making sure to work around the symbol on the card; this was also used to point out that several names should be redune when made.
+
+Base - base_overlay_test - this is one of the none mobile bases, the name was not done as translated it is way to small text.
+
+Custom Part - custom_overlay_test_phase_2 - this is the part for the S-class coupling clamp, emphisis was put on getting the colors of text to match.
+
+______________________________________________________________________________________
 
 I proved I could do the task but came to the conclusion that the game might not get done, so set this aside till it looked like the game would be made. 
 

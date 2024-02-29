@@ -8,7 +8,7 @@ Although the text is hard coded into the tests the project was planed to have it
 
 Version control of this project was done by incrementing the file numbers.
 
-I proved i could do the task but came to the conclusion that the rest of the project was going to go nowhere, so set this aside to pick back up if they seemed to do anthing.
+I proved I could do the task but came to the conclusion that the game might not get done, so set this aside till it looked like the game would be made. 
 
 ![My Image](zoid_cards.jpg)
 
